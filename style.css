@@ -23,7 +23,7 @@ img {
   --header-height: 4.5rem;
 
   /*========== COLORS ==========*/
-  --hue: 220;
+  --hue: 260;
 
   /*========== HSL COLOR MODE ==========*/
   --base-color: hsl(var(--hue) 36% 57%);
@@ -561,7 +561,7 @@ footer .social a:hover {
   main {
     margin-top: var(--header-height);
   }
-  
+
   /*========== HOME ===========*/
   #home .container {
     grid-auto-flow: column;
@@ -584,7 +584,6 @@ footer .social a:hover {
     grid-auto-flow: column;
     margin: 0 auto;
   }
-
 }
 /* LARGE DEVICES 1023px */
 /* LARGE DEVICES 992px UP */
